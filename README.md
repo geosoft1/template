@@ -10,5 +10,6 @@ To start drawing create a new document in Draw and do the next steps
 * from symbols file copy/paste frame
 * copy/paste cartridge
 * copy as you need various simbols and arrange them into your design
+* use connectors to link dynamically the simbols
 * follow the example guideline
 
