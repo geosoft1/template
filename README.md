@@ -1,10 +1,12 @@
 # networks
 
-**Network Topology Template** is an Libre Office document with symbols. Combined with a design technique and a set of rules you can quick draw very complex computers networks.
+**Network Topology Template** is an Libre Office document with symbols. Along with a design technique and a set of rules you can quick draw very complex computers networks.
 
 [![last-version-blue](https://cloud.githubusercontent.com/assets/6298396/5602522/8967405e-935b-11e4-8777-de3623ed6ad7.png)](https://github.com/geosoft1/template/archive/master.zip)
 
 ![demo](https://cloud.githubusercontent.com/assets/6298396/6881751/a9f553fe-d575-11e4-9ba5-821f37f6567f.png)
+
+**How to use**
 
 All you need is copy/paste symbols in a new document and arrange them into a topology. Also you can add on the plan more details like ip's,connections,sockets,buildings and many more. 
 
