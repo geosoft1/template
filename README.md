@@ -1,6 +1,6 @@
 ####template
 ====
-**Network topology template** is an Libre Office document with symbols. Along with a design technique and a set of rules you can quick draw very complex computers networks.
+This project is an Libre Office document with symbols. Along with a design technique and a set of rules you can quick draw very complex computers networks.
 
 [![last-version-blue](https://cloud.githubusercontent.com/assets/6298396/5602522/8967405e-935b-11e4-8777-de3623ed6ad7.png)](https://github.com/geosoft1/template/archive/master.zip)
 
