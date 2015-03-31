@@ -10,7 +10,7 @@ This project is an Libre Office document with symbols. Along with a design techn
 
 All you need is copy/paste symbols in a new document and arrange them into a topology. Also you can add on the plan more details like ip's,connections,sockets,buildings and many more. 
 
-You can draw complex topologies on multiple pages and you can add even a cartridge with designer details for professional drawings. An example are on the second page.
+You can draw complex topologies on multiple pages and you can add even a cartridge with designer details for professional drawings. A dummy example is in `` demo.odg `` file.
 
 Notice that some symbols are composite and may contain more simple symbols grouped. Double click on a composite and copy/paste component symbols to your design. An example of composite symbol is the router.
 
