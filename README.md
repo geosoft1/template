@@ -7,6 +7,7 @@ This project is an Libre Office document with symbols. Along with a design techn
 -->
 
 [![version](https://img.shields.io/badge/version-1.0.0.4-blue.svg)](https://github.com/geosoft1/template/archive/master.zip)
+[![license](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/geosoft1/template/blob/master/LICENSE)
 
 ![demo](https://cloud.githubusercontent.com/assets/6298396/6881751/a9f553fe-d575-11e4-9ba5-821f37f6567f.png)
 
