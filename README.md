@@ -1,4 +1,4 @@
-####template
+template
 ====
 This project is an Libre Office document with symbols. Along with a design technique and a set of rules you can quick draw very complex computers networks.
 
