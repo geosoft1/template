@@ -1,5 +1,5 @@
-01.04.2015 (1.0.0.1)
-14.05.2015 (1.0.0.2) add temperature, humidity and liquid level controller and telephone central
-16.05.2015 (1.0.0.3) add simbols used in buildings
-28.09.2015 (1.0.0.4) add weighing and barcode
-
+01.04.2015 v3 r1.0 initial release
+14.05.2015 v3 r1.1 add temperature, humidity and liquid level controller and telephone central
+16.05.2015 v3 r1.2 add simbols used in buildings
+28.09.2015 v3 r1.3 add weighing and barcode
+24.07.2017 v3 r1.4 add electrical meters

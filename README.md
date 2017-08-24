@@ -2,11 +2,7 @@
 ====
 This project is an Libre Office document with symbols. Along with a design technique and a set of rules you can quick draw very complex computers networks.
 
-<!--
-[![last-version-blue](https://cloud.githubusercontent.com/assets/6298396/5602522/8967405e-935b-11e4-8777-de3623ed6ad7.png)](https://github.com/geosoft1/template/archive/master.zip)
--->
-
-[![version](https://img.shields.io/badge/version-1.0.0.4-blue.svg)](https://github.com/geosoft1/template/archive/master.zip)
+[![version](https://img.shields.io/badge/version-3r1.4-blue.svg)](https://github.com/geosoft1/template/archive/master.zip)
 [![license](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/geosoft1/template/blob/master/LICENSE)
 
 ![demo](https://cloud.githubusercontent.com/assets/6298396/6881751/a9f553fe-d575-11e4-9ba5-821f37f6567f.png)
