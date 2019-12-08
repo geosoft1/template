@@ -1,5 +1,3 @@
-01.04.2015 v3 r1.0 initial release
-14.05.2015 v3 r1.1 add temperature, humidity and liquid level controller and telephone central
-16.05.2015 v3 r1.2 add simbols used in buildings
-28.09.2015 v3 r1.3 add weighing and barcode
-24.07.2017 v3 r1.4 add electrical meters
+4.0.0
+- extends version 3 with 2d symbols
+- new aproach in networks design
